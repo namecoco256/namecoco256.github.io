@@ -70,12 +70,17 @@ ul li {
   margin-bottom: 2px;
 	animation-name: fadein;
   animation-duration: 0.8s;
+	letter-spacing: 12px;
+	font-weight: 400;
+	color:#2C0D0A;
 }
 #name h1{
   font-size: 7em;
   margin-top: 2px;
 	animation-name: fadein;
   animation-duration: 1.2s;
+	font-weight: 700;
+	color:#2C0D0A;
 }
 .links{
 	display:flex;
