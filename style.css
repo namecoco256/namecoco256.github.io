@@ -8,6 +8,11 @@ body{
 	transition:1s;
 	animation-name: opacity-fadein;
 	animation-duration: 0.5s;
+	color:#2C0D0A;
+}
+p{
+	font-weight: 400;
+
 }
 header{
 	top: 0; 
